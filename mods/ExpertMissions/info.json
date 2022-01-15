@@ -1,0 +1,10 @@
+{
+  "Id": "ExpertMissions",
+  "DisplayName": "Expert Missions",
+  "Author": "Rahakami",
+  "Version": "1.0",
+  "ManagerVersion": "0.24.0.0",
+  "Requirements": [],
+  "AssemblyName": "ExpertMissions.dll",
+  "EntryMethod": "ExpertMissions.Main.Load"
+}
