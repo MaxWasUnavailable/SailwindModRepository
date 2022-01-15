@@ -6,6 +6,6 @@
   "ManagerVersion": "0.24.0.0",
   "Requirements": [],
   "AssemblyName": "SailwindModConsole.dll",
-  "EntryMethod": "SailwindModConsole.Main.Load"
+  "EntryMethod": "SailwindModConsole.Main.Load",
   "Description": "Adds console command functionality."
 }
