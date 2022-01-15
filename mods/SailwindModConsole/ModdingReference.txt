@@ -1,0 +1,40 @@
+[HarmonyPatch(typeof(StartMenu), "GameToSettings")]
+static class ConsolePatchInit2
+{
+	private static void Postfix(StartMenu __instance)
+	{
+		if (Main.enabled)
+		{
+			//when the game is paused, grab the console input if we haven't already
+			if(ConsoleAddon.modConsoleInput == null) ConsoleAddon.GetConsoleReference();
+		}
+	}
+}
+
+public static class ConsoleAddon
+{
+	public static InputField modConsoleInput;
+
+	public static void GetConsoleReference()
+	{
+		//grab the console input by name
+		modConsoleInput = GameObject.Find("ConsoleInputField")?.GetComponent<InputField>();
+		//attaches your function to the inputfield
+		modConsoleInput?.onEndEdit.AddListener(delegate { YourFunctionHere(); });
+	}
+
+	public static void YourFunctionHere()
+	{
+		//check the input string here for a match, to execute your commands
+		if (modConsoleInput.text == "givemegold")
+		{
+			PlayerGold.gold += 9000;
+			UISoundPlayer.instance.PlayGoldSound();
+		}
+		if (modConsoleInput.text == "who")
+		{
+			modConsoleInput.text = ("what");
+			UISoundPlayer.instance.PlayOpenSound();
+		}
+	}
+}
