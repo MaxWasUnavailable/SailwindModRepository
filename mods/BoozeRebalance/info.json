@@ -1,0 +1,11 @@
+{
+  "Id": "BoozeRebalance",
+  "DisplayName": "Booze Rebalance",
+  "Author": "Rahakami",
+  "Version": "1.0",
+  "ManagerVersion": "0.24.0.0",
+  "Requirements": [],
+  "AssemblyName": "BoozeRebalance.dll",
+  "EntryMethod": "BoozeRebalance.Main.Load",
+  "Description": "Completely removes bloom from the game. Allows alcohol to affect your sleep meter while you're sleeping."
+}

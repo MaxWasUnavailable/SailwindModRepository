@@ -6,5 +6,6 @@
   "ManagerVersion": "0.24.0.0",
   "Requirements": [],
   "AssemblyName": "ExpertMissions.dll",
-  "EntryMethod": "ExpertMissions.Main.Load"
+  "EntryMethod": "ExpertMissions.Main.Load",
+  "Description": "Adds larger missions at the trade guild. Up to 20 crates."
 }
