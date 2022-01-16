@@ -1,0 +1,5 @@
+windSpeedWaveFactor:5
+waveInertiaWindScale:0.3
+waveWeight:6
+waveDistanceToLandIncrease:15000
+smallWavesValueMultiplier:0.1

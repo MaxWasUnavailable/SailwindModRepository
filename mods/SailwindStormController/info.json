@@ -1,0 +1,11 @@
+{
+  "Id": "SailwindStormController",
+  "DisplayName": "SailwindStormController",
+  "Author": "Stallion",
+  "Version": "1.0",
+  "ManagerVersion": "0.24.0.0",
+  "Requirements": [],
+  "AssemblyName": "SailwindStormController.dll",
+  "EntryMethod": "SailwindStormController.Main.Load",
+  "Description": "Enables customization of storm & wave parameters"
+}

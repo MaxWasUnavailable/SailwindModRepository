@@ -1,0 +1,14 @@
+*how heavily wind affects waves*
+windSpeedWaveFactor:0.2
+
+*how heavily wind affects wave's inertia, this is very sensitive*
+waveInertiaWindScale:0.3
+
+*main parameter for adjusting strength of waves, raising it to 6 or so gives you HUGE waves*
+waveWeight:1
+
+*waves are smaller near shore, this allows you to get stronger waves near land. 10000 means waves near shore will be as strong as if you are 10000 meters from shore*
+waveDistanceToLandIncrease:0
+
+*controls how strong small waves are, there are large swells and there smaller waves in between*
+smallWavesValueMultiplier:0.3
