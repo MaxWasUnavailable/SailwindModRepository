@@ -1,0 +1,1 @@
+Allows empty mugs to pump water out of your ship quickly, turn a mug upside-down and water will be pumped out.
