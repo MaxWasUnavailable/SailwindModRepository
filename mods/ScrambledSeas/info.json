@@ -6,5 +6,6 @@
   "ManagerVersion": "0.24.0.0",
   "Requirements": [],
   "AssemblyName": "ScrambledSeas.dll",
-  "EntryMethod": "ScrambledSeas.Main.Load"
+  "EntryMethod": "ScrambledSeas.Main.Load",
+  "Description": "Generates a randomized world map. It's up to you to find and plot all islands."
 }
