@@ -1,0 +1,11 @@
+{
+  "Id": "RahasQOL",
+  "DisplayName": "Raha's Quality of Life mod",
+  "Author": "Rahakami",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.24.0.0",
+  "Requirements": [],
+  "AssemblyName": "RahasQOL.dll",
+  "EntryMethod": "RahasQOL.Main.Load",
+  "Description": "Adds some optional changes that make life a little easier."
+}
