@@ -1,0 +1,12 @@
+{
+  "Id": "InfiniteRum",
+  "DisplayName": "Infinite Rum",
+  "Author": "App24",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.24.0.0",
+  "AssemblyName": "InfiniteRum.dll",
+  "EntryMethod": "InfiniteRum.Main.Load",
+  "Description": "Never run out of rum ever again",
+  "Tags": ["Gameplay"],
+  "Requirements": []
+}
