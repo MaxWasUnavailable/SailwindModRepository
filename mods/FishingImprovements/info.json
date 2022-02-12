@@ -1,0 +1,12 @@
+{
+  "Id": "FishingImprovements",
+  "DisplayName": "Fishing Improvements",
+  "Author": "App24",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.24.0.0",
+  "AssemblyName": "FishingImprovements.dll",
+  "EntryMethod": "FishingImprovements.Main.Load",
+  "Description": "Brings improvements to how fishing works",
+  "Tags": ["Gameplay"],
+  "Requirements": []
+}
