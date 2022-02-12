@@ -23,6 +23,7 @@ The following keys can be used by the mod manager - most of them are optional, h
 * Version
 * ManagerVersion
 * GameVersion
+> If you do not set this, the Mod Manager will warn users about your mod being potentially incompatible.
 * Requirements
 * HomePage
 * Repository
