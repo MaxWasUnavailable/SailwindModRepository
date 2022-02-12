@@ -8,5 +8,6 @@
   "EntryMethod": "FishingImprovements.Main.Load",
   "Description": "Brings improvements to how fishing works",
   "Tags": ["Gameplay"],
-  "Requirements": []
+  "Requirements": [],
+  "Repository": "https://github.com/App24/SailwindMods/tree/main/FishingImprovements"
 }

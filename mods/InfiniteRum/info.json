@@ -2,11 +2,12 @@
   "Id": "InfiniteRum",
   "DisplayName": "Infinite Rum",
   "Author": "App24",
-  "Version": "1.1.0",
+  "Version": "1.1.1",
   "ManagerVersion": "0.24.0.0",
   "AssemblyName": "InfiniteRum.dll",
   "EntryMethod": "InfiniteRum.Main.Load",
   "Description": "Never run out of rum ever again",
   "Tags": ["Gameplay"],
-  "Requirements": []
+  "Requirements": [],
+  "Repository": "https://github.com/App24/SailwindMods/tree/main/InfiniteRum"
 }

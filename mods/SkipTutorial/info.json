@@ -2,11 +2,12 @@
   "Id": "SkipTutorial",
   "DisplayName": "Skip Tutorial",
   "Author": "App24",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "ManagerVersion": "0.24.0.0",
   "AssemblyName": "SkipTutorial.dll",
   "EntryMethod": "SkipTutorial.Main.Load",
   "Description": "Skip the tutorial when starting a new game",
   "Tags": ["QOL"],
-  "Requirements": []
+  "Requirements": [],
+  "Repository": "https://github.com/App24/SailwindMods/tree/main/SkipTutorial"
 }

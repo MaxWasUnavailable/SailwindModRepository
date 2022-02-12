@@ -2,11 +2,12 @@
   "Id": "ScrollArrowsFix",
   "DisplayName": "Scroll Arrows Bug Fix",
   "Author": "App24",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "ManagerVersion": "0.24.0.0",
   "AssemblyName": "ScrollArrowsFix.dll",
   "EntryMethod": "ScrollArrowsFix.Main.Load",
   "Description": "Fix a bug where the arrows for scrolls are visible on load",
   "Tags": ["Bug Fixes"],
-  "Requirements": []
+  "Requirements": [],
+  "Repository": "https://github.com/App24/SailwindMods/tree/main/ScrollArrowsFix"
 }
