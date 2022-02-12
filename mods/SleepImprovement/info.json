@@ -2,11 +2,12 @@
   "Id": "SleepImprovement",
   "DisplayName": "Sleep Improvement",
   "Author": "App24",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "ManagerVersion": "0.24.0.0",
   "AssemblyName": "SleepImprovement.dll",
   "EntryMethod": "SleepImprovement.Main.Load",
   "Description": "Brings improvements to how sleeping works",
   "Tags": ["Gameplay"],
-  "Requirements": []
+  "Requirements": [],
+  "Repository": "https://github.com/App24/SailwindMods/tree/main/SleepImprovement"
 }
