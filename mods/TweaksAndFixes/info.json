@@ -2,11 +2,12 @@
   "Id": "TweaksAndFixes",
   "DisplayName": "TweaksAndFixes",
   "Author": "App24",
-  "Version": "1.0.0",
+  "Version": "1.1.0",
   "ManagerVersion": "0.24.0.0",
   "AssemblyName": "TweaksAndFixes.dll",
   "EntryMethod": "TweaksAndFixes.Main.Load",
   "Description": "This mod aims to fix bugs and implementing tweaks to better improve the game",
   "Tags": ["Bug Fixes", "Tweaks"],
+  "Requirements": ["SailwindModdingHelper"],
   "Repository": "https://github.com/App24/SailwindMods/tree/main/TweaksAndFixes"
 }

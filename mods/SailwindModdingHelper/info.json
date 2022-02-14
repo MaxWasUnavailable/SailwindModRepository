@@ -1,0 +1,10 @@
+{
+  "Id": "SailwindModdingHelper",
+  "DisplayName": "SailwindModdingHelper",
+  "Author": "App24",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.24.0.0",
+  "AssemblyName": "SailwindModdingHelper.dll",
+  "EntryMethod": "SailwindModdingHelper.Main.Load",
+  "Repository": "https://github.com/App24/SailwindModdingHelper"
+}
