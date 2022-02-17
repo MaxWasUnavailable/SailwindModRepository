@@ -1,0 +1,12 @@
+{
+  "Id": "RegionPopup",
+  "DisplayName": "Region Popup",
+  "Author": "Max",
+  "Version": "1.0",
+  "ManagerVersion": "0.24.0.0",
+  "Requirements": [],
+  "AssemblyName": "RegionPopup.dll",
+  "EntryMethod": "RegionPopup.Main.Load",
+  "Description": "Shows a notification when you enter a new region.",
+  "Tags": ["Gameplay"]
+}
