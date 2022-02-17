@@ -2,7 +2,7 @@
   "Id": "SkipDisclaimer",
   "DisplayName": "Skip Disclaimer",
   "Author": "App24",
-  "Version": "1.1.1",
+  "Version": "1.1.2",
   "ManagerVersion": "0.24.0.0",
   "AssemblyName": "SkipDisclaimer.dll",
   "EntryMethod": "SkipDisclaimer.Main.Load",
