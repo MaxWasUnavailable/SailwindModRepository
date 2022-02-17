@@ -23,6 +23,7 @@ The following keys can be used by the mod manager - most of them are optional, h
 * Version
 * ManagerVersion
 * GameVersion
+> If you do not set this, the Mod Manager will warn users about your mod being potentially incompatible.
 * Requirements
 * HomePage
 * Repository
@@ -34,3 +35,11 @@ The following keys can be used by the mod manager - most of them are optional, h
 > The description is parsed as HTML, so you can get pretty creative with that one.
 
 You can see the [example mod entry info.json](https://github.com/MaxWasUnavailable/SailwindModRepository/blob/master/mods/example_mod_entry/info.json) as an example.
+
+### Mod preview image
+
+You can add a mod preview image by simply including a "mod.png" or "mod.jpg" image in your mod's top directory. Please be mindful and try not to make the filesize unnecessarily large!
+
+### Full example mod
+
+See the [example mod entry](https://github.com/MaxWasUnavailable/SailwindModRepository/blob/master/mods/example_mod_entry) as an example of a mod with all optional fields and a mod preview image.
