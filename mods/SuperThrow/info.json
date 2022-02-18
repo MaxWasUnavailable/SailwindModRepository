@@ -2,11 +2,11 @@
   "Id": "SuperThrow",
   "DisplayName": "Superthrow",
   "Author": "Max",
-  "Version": "1.2",
+  "Version": "1.3",
   "ManagerVersion": "0.24.0.0",
   "Requirements": [],
   "AssemblyName": "SuperThrow.dll",
   "EntryMethod": "SuperThrow.Main.Load",
-  "Description": "You now throw things 2.5x as far.",
+  "Description": "You can now configure your throw force multiplier and maximal throw force! (I'd recommend to start with small increments first)",
   "Tags": ["Fun"]
 }
