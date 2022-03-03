@@ -2,7 +2,7 @@
   "Id": "TweaksAndFixes",
   "DisplayName": "TweaksAndFixes",
   "Author": "App24",
-  "Version": "1.4.0",
+  "Version": "1.6.1",
   "ManagerVersion": "0.24.0.0",
   "AssemblyName": "TweaksAndFixes.dll",
   "EntryMethod": "TweaksAndFixes.Main.Load",
