@@ -2,12 +2,12 @@
   "Id": "SkipDisclaimer",
   "DisplayName": "Skip Disclaimer",
   "Author": "App24",
-  "Version": "1.1.2",
+  "Version": "1.1.3",
   "ManagerVersion": "0.24.0.0",
   "AssemblyName": "SkipDisclaimer.dll",
   "EntryMethod": "SkipDisclaimer.Main.Load",
   "Description": "Skip Disclaimer when starting or loading a game",
   "Tags": ["QOL"],
-  "Requirements": [],
+  "Requirements": ["SailwindModdingHelper"],
   "Repository": "https://github.com/App24/SailwindMods/tree/main/SkipDisclaimer"
 }
