@@ -2,10 +2,14 @@
 
 You can now right click on a map to have it obstruct less of the view.<br>
 In the mission screen, you can now see the size of the crate.<br>
-You can sort missions by total price, price per km/mile, amount of goods and distance.<br>
-You can now right click on the sort mission sort button to go back to the previous sorting.<br>
+You can sort missions by reward, price per mile, amount of goods and distance.<br>
+You can right click on the sort mission sort button to go back to the previous sorting.<br>
 Being able to save the game at any time (press F8)<br>
 A button to quit the game without saving.<br>
+You can place food into crates.<br>
+If you are desperate enough, you can now eat from mission crates. It will obviously reduce the amount of gold you get for that mission.<br>
+You can see the amount of gold you will get per mission crate/barrel.<br>
+Empty crates show "empty", instead of showing the amount as 0.<br>
 
 ## Bugs Fixed
 
