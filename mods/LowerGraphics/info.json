@@ -1,0 +1,12 @@
+{
+  "Id": "LowerGraphics",
+  "DisplayName": "LowerGraphics",
+  "Author": "App24",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.24.0.0",
+  "AssemblyName": "LowerGraphics.dll",
+  "EntryMethod": "LowerGraphics.Main.Load",
+  "Description": "This mod aims to improve game performance by allowing to disable graphical options",
+  "Tags": ["Performance"],
+  "Repository": "https://github.com/App24/SailwindMods/tree/main/LowerGraphics"
+}
