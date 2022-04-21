@@ -1,0 +1,13 @@
+{
+  "Id": "ControlWinds",
+  "DisplayName": "Wind Controller",
+  "Author": "App24",
+  "Version": "1.0.1",
+  "ManagerVersion": "0.24.0.0",
+  "AssemblyName": "ControlWinds.dll",
+  "EntryMethod": "ControlWinds.Main.Load",
+  "Description": "Control the winds",
+  "Tags": ["Cheats"],
+  "Requirements": ["SailwindModdingHelper"],
+  "Repository": "https://github.com/App24/SailwindMods/tree/main/ControlWinds"
+}
